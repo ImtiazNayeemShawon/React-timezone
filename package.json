@@ -1,0 +1,18 @@
+{
+  "name": "react-timezone",
+  "version": "1.0.0",
+  "description": "Timezone React is a custom React hook designed to simplify the handling of timezones in your projects. With this hook, you gain access to an array containing all available timezones, providing a convenient solution for implementing timezone selection inputs. By integrating Timezone React, you can effortlessly enhance your project's user experience by allowing users to easily choose their preferred timezone from a comprehensive list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-timezone",
+    "timezone",
+    "get-timezone",
+    "select-timezone"
+  ],
+  "author": "Imtiaz Nayeem Shawon",
+  "license": "MIT"
+}
